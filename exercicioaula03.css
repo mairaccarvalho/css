@@ -8,12 +8,14 @@ h1{
     text-align: center;
     background-color: lavenderblush;
     border-bottom: solid 2px black;
+    border-radius: 30px;
 }
 
 h2{
     text-align: center;
     border-bottom: dashed 2px lavender;
     background-color: lavenderblush;
+    border-radius: 30px;
 
 }
 
@@ -22,9 +24,12 @@ h2{
     color: chocolate;
     background-color: bisque;
     text-indent: 40px;
+    border-radius: 30px;
+
 }
 
 article p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: brown;
+    
 }
