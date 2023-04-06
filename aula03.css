@@ -1,0 +1,66 @@
+/* aplicando a todos os elementos */
+* {
+    text-indent: 40px;
+    font-size: 20px;
+    background-color: #fff1e6;
+}
+
+/* regra que pode ser aplicada em todo o elemento HTML */
+.fundo {
+    background-color: azure;
+    color: darkmagenta;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    text-shadow: 6px 7px 8px;
+    background-color: lavenderblush;
+    text-align: center;
+}
+
+/* regar so poder ser aplicada em elemento h2 */
+h2.fundo {
+    text-shadow: 6px 7px 8px;
+    background-color: azure;
+    text-align: center;
+}
+
+h2 {
+    text-shadow: 6px 7px 8px;
+    text-align: center;
+    background-color: rgb(218, 154, 175);
+}
+
+/* classe fica vinvulado ao ID do elemento HTML */
+#linha {
+    font-size: 18px;
+    font-style: italic;
+    text-align: center;
+    background-color: lavenderblush;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+        'Lucida Sans', Arial, sans-serif;
+}
+
+/* aplicando classe no elemento elemento */
+article p {
+    color: darkorchid;
+}
+
+section p {
+    color: darkslateblue;
+}
+
+/* elementos Border */
+h1 {
+    border-bottom: dotted 2px darkmagenta;
+}
+h2 {
+    border: groove 2px darkmagenta;
+}
+#borda {
+    border: dashed 2px darkmagenta;
+}

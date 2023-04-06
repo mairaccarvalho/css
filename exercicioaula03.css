@@ -1,0 +1,30 @@
+*{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 40px;
+    
+}
+h1{
+    text-align: center;
+    background-color: lavenderblush;
+    border-bottom: solid 2px black;
+}
+
+h2{
+    text-align: center;
+    border-bottom: dashed 2px lavender;
+    background-color: lavenderblush;
+
+}
+
+#p1{
+    text-align: center;
+    color: chocolate;
+    background-color: bisque;
+    text-indent: 40px;
+}
+
+article p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+}
