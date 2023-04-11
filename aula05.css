@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+}
+div{
+    font-size: 30px;
+    background-color: beige;
+}
+#vo{
+    font-size: 3em;
+}
+.vp{
+    font-size: 2em;
+}
+
+#p3{
+    font-size:3rem ;
+}
+
+
+#div{
+    background-color: cadetblue;
+    height: 100vh;
+   
+} 
+
+/*  essa fonte tem 32 px, é realitivo ao root, tamanho paddrao que é 16px */
+/* aumenta em relação ao rem, ao elemento anterior 'em*/

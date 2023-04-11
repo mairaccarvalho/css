@@ -1,39 +1,73 @@
-*{
+* {
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     text-indent: 40px;
     
 }
-h1{
+h1 {
     text-align: center;
     background-color: lavenderblush;
     border-bottom: solid 2px black;
     border-radius: 30px;
 }
 
-h2{
+body{
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/t2/11170587-ilustracaoial-de-fundo-gradiente-vetor.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    background-attachment: scroll;
+}
+h2 {
     text-align: center;
     border-bottom: dashed 2px lavender;
     background-color: lavenderblush;
     border-radius: 30px;
-
 }
 
-#p1{
+#p1 {
     text-align: center;
     color: chocolate;
     background-color: bisque;
     text-indent: 40px;
     border-radius: 30px;
-
 }
 
-article p{
+article p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: brown;
-    
 }
 
-figure{
+figure {
+    border: 2px solid;
+    border-radius: 30px;
+    width: 360px;
+    padding: 20px;
+    margin: auto;
+}
+
+figcaption { 
+    text-align: justify;
+    font-size: 15px;
+    background-color: lavenderblush;
+    border: groove rgba(230, 230, 250, 0.418);
+    border-radius: 15px;
+}
+
+#foto {
+    width: 350px;
     text-align: center;
+}
+
+footer{
+    background-color: lavenderblush;
+    
+    left: 0;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    padding: 12px;
+    font-style: italic;
+    text-align: center;
+    
 }
