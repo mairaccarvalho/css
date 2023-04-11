@@ -8,6 +8,8 @@
     font-size: 50px;
     color: #926239;
     text-align: center;
+    line-height: 2em;
+    
 }
 #cabeçalho {
     text-align: center;
@@ -24,6 +26,8 @@
     color: #926239;
     font-size: 20px;
     text-align: center;
+    text-indent: 40px;
+
 }
 #botao {
     font-size: 18px;
@@ -32,11 +36,13 @@
     padding: 10px 20px;
     border-radius: 10px;
     line-height: 10vh;
+    text-decoration: none;
 }
 #p2 {
     text-align: justify;
     color: antiquewhite;
     background-color: #926239;
     height: 12vh;
-    
+    padding: 10px;
+    text-indent: 40px;
 }

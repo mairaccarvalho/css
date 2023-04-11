@@ -1,0 +1,37 @@
+#dv1 {
+    text-align: center;
+    background-color: lavenderblush;
+    border: 1px solid;
+    margin: 5px;
+    width: 200px;
+    height: 200px;
+    float: left;
+    box-sizing: border-box;
+
+}
+#dv2 {
+    text-align: center;
+    border: 1px solid;
+    background-color: cornflowerblue;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    float: left;
+    box-sizing: border-box;
+}
+#dv3 {
+    text-align: center;
+    border: 1px solid;
+    background-color: lavender;
+    margin: 5px;
+    width: 200px;
+    height: 200px;
+    float: right;
+    box-sizing: border-box;
+
+}
+#sec1 {
+    border: 2px solid;
+    float: left;
+    padding: 5px;
+}
